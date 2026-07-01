@@ -1,13 +1,13 @@
-### Hi there 👋, I'm Shivam
+### Hi there, I'm Shivam
 
 **Software Engineer | Building, breaking, and shipping.**
 
 I build full-stack applications, deep learning models, and games. 
 
-* 🔭 Currently working as a Software Engineer Intern in the Quant and Algo Team at Futures First.
-* 🚀 Built **AniSuggest**, an AI anime recommender, and developing **Deep Learning Defect Detection for Photovoltaic Cells**.
-* 🎮 Exploring game development using **Unity**, including 2D JRPG turn-based battle systems.
-* ⚡ Fun fact: I am a world top 500 competitive Pokémon player and have architected 10+ competitive tournaments.
+* Currently working as a Software Engineer Intern in the Quant and Algo Team at Futures First.
+* Built **AniSuggest**, an AI anime recommender, and developing **Deep Learning Defect Detection for Photovoltaic Cells**.
+* Exploring game development using **Unity**, including 2D JRPG turn-based battle systems.
+*  Fun fact: I am a world top 500 competitive Pokémon player and have architected 10+ competitive tournaments.
 
 <br>
 
