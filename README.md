@@ -9,6 +9,7 @@ I build full-stack applications, deep learning models, and games.
 * Exploring game development using **Unity**, including 2D JRPG turn-based battle systems.
 *  Fun fact: I am a world top 500 competitive Pokémon player and have architected 10+ competitive tournaments.
 
+Check out my portfolio: https://dracoshivam.github.io/persona5-style-portfolio-main/
 <br>
 
 **Tech Stack**
